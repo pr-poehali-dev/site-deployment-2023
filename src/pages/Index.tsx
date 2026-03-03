@@ -519,7 +519,7 @@ export default function Index() {
                 { icon: "Mail", label: "Email", value: "md.malutina@gmail.com" },
                 { icon: "MapPin", label: "Школа", value: "Школа №50, Самарская область" },
                 { icon: "GraduationCap", label: "Класс", value: "10 класс, 2025–2026" },
-                { icon: "BookMarked", label: "Руководитель", value: "Учитель информатики" },
+                { icon: "BookMarked", label: "Руководитель", value: "Учитель обществознания" },
               ].map(({ icon, label, value }) => (
                 <div key={label} className="flex items-start gap-4 p-5 border border-[#e8e8e4] rounded-2xl hover:border-[#2563eb] transition-colors duration-200">
                   <div className="w-9 h-9 rounded-lg bg-[#eff6ff] flex items-center justify-center shrink-0">
