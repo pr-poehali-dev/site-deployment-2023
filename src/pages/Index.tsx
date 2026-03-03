@@ -516,8 +516,8 @@ export default function Index() {
             </p>
             <div className="grid sm:grid-cols-2 gap-4">
               {[
-                { icon: "Mail", label: "Email", value: "example@school.ru" },
-                { icon: "MapPin", label: "Школа", value: "г. Москва, Школа №1" },
+                { icon: "Mail", label: "Email", value: "md.malutina@gmail.com" },
+                { icon: "MapPin", label: "Школа", value: "Школа №50, Самарская область" },
                 { icon: "GraduationCap", label: "Класс", value: "10 класс, 2025–2026" },
                 { icon: "BookMarked", label: "Руководитель", value: "Учитель информатики" },
               ].map(({ icon, label, value }) => (
